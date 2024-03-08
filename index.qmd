@@ -11,3 +11,5 @@ There is three more parts of detail about me in the about page.
 -- Experience/Achievements
 
 If you want to know more about me, you can click on "about" to view more content about me. Hope you have a good day!
+
+[The detail of the formation of this website can be found on my github: https://github.com/Northboi/Shiji_Zhang_personal_website]
