@@ -6,9 +6,9 @@ Hello everyone, this is Shiji Zhang, a fourth-year student at the University of 
 
 There is three more parts of detail about me in the about page. 
 
--- Hobby
--- Another identity
--- Experience/Achievements
+# Hobby
+# Another identity
+# Experience/Achievements
 
 If you want to know more about me, you can click on "about" to view more content about me. Hope you have a good day!
 
