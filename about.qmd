@@ -1,11 +1,13 @@
 ---
 title: "About"
 ---
+## Hobby
 
-About this site
+I am a passionate sports fan, especially when it comes to soccer and basketball. Not only do I enjoy watching these games, but I also love being involved. In middle school, I successfully founded the school's soccer club, which didn't exist before, and initiated the school's first official soccer league. My favorite soccer club is Shandong Taishan Football Club, which is my hometown team. My favorite player is Messi. He is humble and has always remained grounded. In 2022, he finally won the World Cup, which he had dreamed of for so long. His journey has greatly influenced me and made me become a better person.
 
-```{r}
-1 + 1
-```
+## Another identity
 
-[My CV](CV_ShijiZhang.pdf)
+Besides being a student, another role I have is being a songwriter. In my own songs, I handle the arrangement, composition, lyrics, and vocals. I don't expect to achieve success through music, but when I do this, it brings me immense joy, and my current songs have also gained some recognition. One of my songs achieved the Silver Single achievement on the NetEase Cloud Music platform in China. This keeps my passion and enthusiasm for music alive, and I want to continue pursuing it. If you're interested, you can click on this link to listen to my songs：https://www.youtube.com/watch?v=2U1CjU7g7Mg
+
+## Experience/Achievements
+In more than a decade of student experience, I have also tried to improve my academic abilities and practical background. I have won some small and big awards and achievements. And I had my first internship experience last summer. I have organized all of these into the following CV. If you are interested, please take a look：[My CV](CV_ShijiZhang.pdf)
