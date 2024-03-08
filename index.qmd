@@ -1,5 +1,5 @@
 ---
-title: "Shiji Zhang personal website"
+title: "Shiji Zhang Personal Website"
 ---
 # Who am I
 Hello everyone, this is Shiji Zhang, a fourth-year student at the University of Toronto. I am 21 years old now and come from Jinan City, Shandong Province, China. My major is Economics, with minors in Mathematics and Statistics. In STA302, I have learned a lot of new content that I haven't studied before, especially how to write formal papers using R language and how to build personal websites, which is what I am currently doing.
